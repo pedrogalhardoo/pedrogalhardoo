@@ -4,7 +4,7 @@
   </h1>
   
    <p align="center">
-  Tenho 19 anos e desde criança, sempre fui fascinado por computadores, eletrônicos, tecnologia em geral. Atualmente, estou estudando o curso de Bacharelado em Sistemas de Informação na Universidade Federal de Uberlândia para me tornar um profissional de TI qualificado.
+  Tenho 20 anos e desde criança, sempre fui fascinado por computadores, eletrônicos, tecnologia em geral. Atualmente, estou estudando o curso de Bacharelado em Sistemas de Informação na Universidade Federal de Uberlândia para me tornar um profissional de TI qualificado.
   </p>
 
 <div align="center" style="display: inline_block"> 
