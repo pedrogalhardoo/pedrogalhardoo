@@ -1,49 +1,58 @@
 # 👋 Olá! Eu sou o Pedro Galhardo Germiniani
 
-🎓 Graduando em **Sistemas de Informação** pela Universidade Federal de Uberlândia (UFU)  
-🔧 Técnico em Informática com experiência prática em **desenvolvimento web**, **automação com Python** e **análise de dados**  
-🚀 Entusiasta de **Gestão de Projetos**, **Análise de Requisitos**, **QA**, **IoT** e **Interação Humano-Computador (IHC)**  
-🌱 Sempre aprendendo algo novo — tecnologia com propósito é o que me move.
+🎓 Graduando em **Sistemas de Informação** pela UFU  
+📍 Monte Carmelo - MG | 📫 pedrogerminiani1@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/pedro-galhardo-20789027b)
 
 ---
 
-## 💡 Sobre mim
+## 🚀 Áreas de Foco
 
-Atuo com uma abordagem que une **visão técnica**, **colaboração** e **comunicação clara** entre áreas técnicas e de negócio. Gosto de construir soluções usáveis e robustas, alinhadas com as reais necessidades do usuário.
+### 🎯 Gestão de Projetos
+- Experiência como **coordenador no centro acadêmico** (CASIU/UFU), liderando ações e representando estudantes
+- Organização, comunicação e foco em **entregas com impacto real**
+- Interesse em metodologias ágeis e ferramentas como **Scrum, Kanban, Jira e Trello**
 
-Além da graduação, participei de projetos de iniciação científica aplicando tecnologia na **preservação ambiental**, desenvolvendo ferramentas para **monitoramento automatizado de fauna**.
+### 📋 Análise de Requisitos
+- Experiência em projetos interdisciplinares integrando **tecnologia e meio ambiente**
+- Facilidade em traduzir **necessidades do usuário em especificações claras e funcionais**
+- Preocupação com usabilidade, valor e visão de produto
 
-Atualmente, busco oportunidades em projetos que desafiem minha criatividade e contribuam para meu desenvolvimento como dev e como pessoa. ✨
+### ✅ Garantia da Qualidade (QA)
+- Interesse em **testes automatizados, funcionais e exploratórios**
+- Mentalidade voltada à **prevenção de falhas**, melhoria contínua e confiança no software
+- Atenção especial à documentação, rastreabilidade e validação de requisitos
+
+---
+
+## 🌐 Áreas de Interesse Complementares
+
+### 🌱 IoT (Internet das Coisas)
+- Buscando integrar hardware e software para soluções conectadas  
+- Interesse por aplicações em **monitoramento ambiental, automação e cidades inteligentes**
+
+### 🧠 IHC (Interação Humano-Computador)
+- Foco em **experiência do usuário, acessibilidade e design centrado no ser humano**
+- Desenvolvimento de sistemas que **comunicam bem, resolvem bem e acolhem bem**
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
 - 💻 HTML | CSS | JavaScript | PHP | SQL  
-- 🐍 Python (scripts, automações e análise de dados)  
+- 🐍 Python (automação e análise de dados)  
 - 📊 Power BI | Excel  
-- ⚙️ Git & GitHub  
-- 📄 Overleaf (documentação e artigos técnicos)
+- 📄 Overleaf (documentação técnica e artigos científicos)  
+- 🔄 Git & GitHub
 
 ---
 
-## 🧠 Em constante aprendizado
+## 💬 Sobre mim
 
-- Engenharia de Software e Qualidade
-- Experiência do Usuário e Acessibilidade
-- Internet das Coisas (IoT)
-- Testes e Garantia da Qualidade (QA)
+Sou apaixonado por construir **soluções úteis, robustas e acessíveis**. Valorizo a clareza na comunicação, a colaboração entre áreas e a capacidade de aprender o necessário para resolver qualquer desafio.
 
----
-
-## 🔗 Onde me encontrar
-
-- 📫 **Email**: pedrogerminiani1@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/pedro-galhardo-20789027b)  
-- 🌐 *Em breve: portfólio online*
-
----
+Busco oportunidades onde possa aplicar e expandir meus conhecimentos em **gestão, análise e qualidade de software**, sempre com propósito e conexão humana.
 
 > “Tecnologia de verdade é aquela que melhora a vida das pessoas.”  
-> — E eu quero estar nesse tipo de projeto. 🚀
+> — E é com esse propósito que sigo desenvolvendo, aprendendo e contribuindo. 🚀
 
