@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou o Pedro Galhardo Germiniani
 
 🎓 Graduando em **Sistemas de Informação** pela UFU  
-📍 Monte Carmelo - MG | 📫 pedrogerminiani1@gmail.com  
+📍 Monte Carmelo - MG | 📫 galhardopedrogerminiani@gmail.com
 🔗 [LinkedIn](https://www.linkedin.com/in/pedro-galhardo-20789027b)
 
 ---
