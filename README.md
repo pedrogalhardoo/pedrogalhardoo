@@ -2,6 +2,7 @@
 
 🎓 Graduando em **Sistemas de Informação** pela UFU  
 📍 Monte Carmelo - MG | 📫 galhardopedrogerminiani@gmail.com
+
 🔗 [LinkedIn](https://www.linkedin.com/in/pedro-galhardo-20789027b)
 
 ---
